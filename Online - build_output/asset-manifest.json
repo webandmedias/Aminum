@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.afc5280b.css",
+    "main.js": "/static/js/main.d6dcbe23.js",
+    "static/media/Logo aminum paysage.png": "/static/media/Logo aminum paysage.8720eee0008c57c67168.png",
+    "static/media/Mooka.woff2": "/static/media/Mooka.2cba8ef1513d643c62ca.woff2",
+    "index.html": "/index.html",
+    "main.afc5280b.css.map": "/static/css/main.afc5280b.css.map",
+    "main.d6dcbe23.js.map": "/static/js/main.d6dcbe23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afc5280b.css",
+    "static/js/main.d6dcbe23.js"
+  ]
+}
